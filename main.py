@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 API_TOKEN = '6730091039:AAFQruxelojCr-J19dKbY9Uu4aOMO_t6jfg'
-CHANNEL_USERNAME = '@y_muhammadyusufxon'
+CHANNEL_USERNAME = '@magistr_guliston'
 ADMIN_ID = 6855997739  # Sizning Telegram ID'ingiz
 
 bot = telebot.TeleBot(API_TOKEN)
